@@ -1,0 +1,27 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"classes.html":[0,1],
+"classstool_1_1compression__algorithms_1_1LCPCompData2.html":[0,0,0,0,0],
+"classstool_1_1compression__algorithms_1_1LZ77.html":[0,0,0,0,2],
+"classstool_1_1compression__algorithms_1_1LZFactor.html":[0,0,0,0,3],
+"classstool_1_1compression__algorithms_1_1LZWriter.html":[0,0,0,0,4],
+"classstool_1_1compression__algorithms_1_1LexParse.html":[0,0,0,0,1],
+"classstool_1_1compression__algorithms_1_1MSDecompressor.html":[0,0,0,0,5],
+"classstool_1_1compression__algorithms_1_1MSFactor.html":[0,0,0,0,6],
+"classstool_1_1compression__algorithms_1_1MSFactorReferenceComp.html":[0,0,0,0,7],
+"classstool_1_1compression__algorithms_1_1PointCompare.html":[0,0,0,0,8],
+"compression__algorithms_8hpp_source.html":[1,0,0,2],
+"constants_8hpp_source.html":[1,0,0,0,0],
+"dir_03de8c6b3393f2c44a4e173589af68d9.html":[1,0,0,1],
+"dir_0966d06610f72609fd9aa4979c2b5a92.html":[1,0,0,0],
+"dir_d44c64559bbebec7f509842c48db8b23.html":[1,0,0],
+"files.html":[1,0],
+"index.html":[],
+"lcpcomp2_8hpp_source.html":[1,0,0,1,0],
+"lexparse_8hpp_source.html":[1,0,0,1,1],
+"lz77_8hpp_source.html":[1,0,0,1,2],
+"lz__factor_8hpp_source.html":[1,0,0,0,1],
+"ms__decompressor_8hpp_source.html":[1,0,0,0,2],
+"pages.html":[]
+};

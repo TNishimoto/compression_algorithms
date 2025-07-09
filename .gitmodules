@@ -1,0 +1,6 @@
+[submodule "modules/stool"]
+	path = modules/stool
+	url = https://github.com/TNishimoto/stool.git
+[submodule "modules/libdivsufsort"]
+	path = modules/libdivsufsort
+	url = https://github.com/TNishimoto/libdivsufsort.git

@@ -1,7 +1,8 @@
 #include <cassert>
 #include <chrono>
-#include "stool/include/third_party/cmdline.h"
+#include "stool/include/light_stool.hpp"
 #include "../include/compression_algorithms.hpp"
+#include "libdivsufsort/sa.hpp"
 
 
 using namespace std;
